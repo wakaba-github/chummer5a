@@ -1006,7 +1006,7 @@ namespace Chummer
             }
             if (!string.IsNullOrEmpty(_strBookXPath))
             {
-                if (sbdPath.Length != 0)
+                if (sbdPath.Length != 1)
                     sbdPath.Append(" and ");
                 sbdPath.Append(_strBookXPath);
             }
@@ -1017,14 +1017,14 @@ namespace Chummer
             }
             if (!GlobalOptions.Dronemods)
             {
-                if (sbdPath.Length != 0)
+                if (sbdPath.Length != 1)
                     sbdPath.Append(" and ");
                 sbdPath.Append("not(optionaldrone)");
             }
 
-            if (sbdPath.Length > 1)
-                sbdPath.Append(")");
-            else
+            sbdPath.Append(")");
+
+            if (sbdPath.Equals("()"))
             {
                 // We have only the opening parentheses; clear the string builder so that we return an empty string
                 sbdPath.Clear();
