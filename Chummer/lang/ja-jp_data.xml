@@ -12059,67 +12059,67 @@
             <gear>
                 <id>ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5</id>
                 <name>Ammo: APDS</name>
-                <translate>APDS 弾</translate>
+                <translate>弾薬: APDS 弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>0bf4113c-dedb-411d-8981-7b6af169f056</id>
                 <name>Ammo: Assault Cannon</name>
-                <translate>アサルトキャノン弾</translate>
+                <translate>弾薬: アサルトキャノン弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>1315cecd-1c13-4d69-9828-a3ea535675da</id>
                 <name>Ammo: Explosive Rounds</name>
-                <translate>炸裂弾</translate>
+                <translate>弾薬: 炸裂弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>96eb3f57-26e0-40c5-8dac-62cf8a0bc52f</id>
                 <name>Ammo: EX-Explosive Rounds</name>
-                <translate>強化炸裂弾</translate>
+                <translate>弾薬: 強化炸裂弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>95bff6e2-d788-407b-9069-093250f89fcb</id>
                 <name>Ammo: Flechette Rounds</name>
-                <translate>フレシェット弾</translate>
+                <translate>弾薬: フレシェット弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>0c8d16cb-6e96-4d95-8454-104a36091cf9</id>
                 <name>Ammo: Gel Rounds</name>
-                <translate>ゲル弾</translate>
+                <translate>弾薬: ゲル弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>638c81a2-328b-4e22-8fb0-ee37c5e2f6c9</id>
                 <name>Ammo: Injection Darts</name>
-                <translate>注入ダート</translate>
+                <translate>弾薬: 注入ダート</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>b2a0b340-c793-4322-8422-8b03d18a6fae</id>
                 <name>Ammo: Regular Ammo</name>
-                <translate>通常弾</translate>
+                <translate>弾薬: 通常弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>d9f69780-93eb-41ff-9a9c-893f8c52794e</id>
                 <name>Ammo: Stick-n-Shock</name>
-                <translate>スティックン・ショック</translate>
+                <translate>弾薬: スティックン・ショック</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>e0d7aea7-52ac-4670-bac3-b13ce144257c</id>
                 <name>Ammo: Tracer</name>
-                <translate>曳光弾</translate>
+                <translate>弾薬: 曳光弾</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
                 <id>8afe5065-5815-4a98-b047-2a7fed85db55</id>
                 <name>Ammo: Taser Dart</name>
-                <translate>テイザー・ダート</translate>
+                <translate>弾薬: テイザー・ダート</translate>
                 <altpage>400</altpage>
             </gear>
             <gear>
@@ -12305,31 +12305,31 @@
             <gear>
                 <id>4257a39e-41eb-45ee-976e-41c3c0bf960c</id>
                 <name>Ammo: Capsule Rounds</name>
-                <translate>カプセル弾</translate>
+                <translate>弾薬: カプセル弾</translate>
                 <altpage>36</altpage>
             </gear>
             <gear>
                 <id>ecc8aafc-f8a3-408b-9b47-6f85a473de13</id>
                 <name>Ammo: Frangible Rounds</name>
-                <translate>フランジブル弾</translate>
+                <translate>弾薬: フランジブル弾</translate>
                 <altpage>36</altpage>
             </gear>
             <gear>
                 <id>f29f0642-65a5-4461-bca1-396907dbf82e</id>
                 <name>Ammo: Tracker Rounds, Security Tag</name>
-                <translate>トラッカー弾, セキュリティ・タグ</translate>
+                <translate>弾薬: トラッカー弾, セキュリティ・タグ</translate>
                 <altpage>36</altpage>
             </gear>
             <gear>
                 <id>4b844ac3-20e8-4982-8711-20579b5295a8</id>
                 <name>Ammo: Tracker Rounds, Stealth Tag</name>
-                <translate>トラッカー弾, ステルス・タグ</translate>
+                <translate>弾薬: トラッカー弾, ステルス・タグ</translate>
                 <altpage>36</altpage>
             </gear>
             <gear>
                 <id>506dd9c6-ea57-4ae2-8887-81ce93e5a7b2</id>
                 <name>Ammo: Flare Rounds</name>
-                <translate>照明弾</translate>
+                <translate>弾薬: 照明弾</translate>
                 <altpage>37</altpage>
             </gear>
             <gear>
@@ -12365,7 +12365,7 @@
             <gear>
                 <id>f486f414-ee2c-46db-92ea-c682861d8fe0</id>
                 <name>Ammo: Hollow Points</name>
-                <translate>Ammo: ホローポイント弾</translate>
+                <translate>弾薬: ホローポイント弾</translate>
                 <altpage>434</altpage>
             </gear>
             <gear>
@@ -16745,7 +16745,7 @@
             <gear>
                 <id>a2f8d85c-99eb-44ed-b747-ac995f8fec89</id>
                 <name>Universal Connector Cord (Meter)</name>
-                <translate>Universal Connector Cord (Meter)</translate>
+                <translate>データケーブル (1メートル)</translate>
                 <altpage>254</altpage>
             </gear>
             <gear>
